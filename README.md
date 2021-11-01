@@ -31,6 +31,11 @@ Trade-offs
 - Added keyboard shortcuts.
 - Would've got feedback and made those changes.
 
+Feature Focus
+-------------
+- Dark mode
+- Autocomplete
+
 Scalability
 -----------
 The application can be made scalable after modifying few things. The application already uses pool for managing MySQL connections and work can be done on that. And the files can be served using a CDN to make content delivery faster, and instead of Nodejs we can use Rust.

@@ -1,0 +1,1 @@
+export const MAPBOX_TOKEN :string = 'pk.eyJ1IjoiYWtzLXRyeWl0IiwiYSI6ImNrdmRlbnJ5ZDZ5azkyb3M3NDBpeWxhYmcifQ.jQvHGw0T9zNJhSRF1QmrjQ';

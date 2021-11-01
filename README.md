@@ -35,6 +35,7 @@ Feature Focus
 -------------
 - Dark mode
 - Autocomplete
+  - Examples to try: 'china' (The Game), 'greed', 'The Woman In Red'
 
 Scalability
 -----------
